@@ -28,12 +28,6 @@ Repository with recommended resources for studying Data Science.
 ---
 ## Author
 
- <a href="https://www.linkedin.com/in/itamarrocha/" target="_blank">**Itamar Rocha**</a>
-:---: 
-<img src="https://github.com/ItamarRocha/Data-Analysis-and-Manipulation/raw/master/imgs/profile.JPG" width="100px"> </img>
-<a href="http://github.com/ItamarRocha" target="_blank">`github.com/ItamarRocha`</a>
- <a href="https://www.linkedin.com/in/itamarrocha/" target="_blank">**Itamar Rocha**</a>
-<font style="color:red">BPOTAR O RESTO D A GALERA</font>
 ---
 ## Support
 
