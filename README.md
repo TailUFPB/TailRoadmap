@@ -1,4 +1,4 @@
-# TailRoadmap
+# TailRoadmap [ TO BE RELEASED SOON ]
 Repository with recommended resources for studying Data Science.
 
 ## Table of Contents
