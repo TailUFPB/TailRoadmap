@@ -42,6 +42,8 @@ Statistical methods are a key part of data science, yet few data scientists have
 
 * **["Python para Estatística"](https://tmfilho.github.io/pyestbook/intro)**
 
+This is a book for an introduction to python and data science with useful and most used language resources for statistical modeling, data visualization, data processing. In addition, to present the tools that may be most useful to you, including mathematical computing libraries, data visualization, database and database manipulation, machine learning tools, parallel computing, GPU computing, Bayesian inference and creation and consumption of Web API's.
+
 ---
 ## Programming
 
