@@ -32,6 +32,16 @@ Master the math needed to excel in data science and machine learning. If you're 
 
 Take the next steps toward mastering deep learning, the machine learning method that's transforming the world around us by the second. In this practical book, you'll get up to speed on key ideas using Facebook's open source PyTorch framework and gain the latest skills you need to create your very own neural networks.
 
+* **["Introduction to Machine Learning with Python: A Guide for Data Scientists "](https://www.amazon.com.br/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/ref=sr_1_10?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=machine+learning&qid=1598404231&s=digital-text&sr=1-10)**
+
+Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination.
+
+* **["Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python"](https://www.amazon.com.br/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B08712TT3F/ref=rtpb_27?_encoding=UTF8&pd_rd_i=B08712TT3F&pd_rd_r=c4d0d621-b680-4ef7-a023-d809885512ff&pd_rd_w=4fe5B&pd_rd_wg=KmM5G&pf_rd_p=1732dfeb-9707-47b3-92c2-fdb9caaca2b7&pf_rd_r=XZ74NXNJ47VC1TE2QJV1&psc=1&refRID=XZ74NXNJ47VC1TE2QJV1)**
+
+Statistical methods are a key part of data science, yet few data scientists have formal statistical training. Courses and books on basic statistics rarely cover the topic from a data science perspective. The second edition of this popular guide adds comprehensive examples in Python, provides practical guidance on applying statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what’s important and what’s not.  
+
+* **["Python para Estatística"](https://tmfilho.github.io/pyestbook/intro)**
+
 ---
 ## Programming
 
