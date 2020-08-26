@@ -53,6 +53,8 @@ This is a book for an introduction to python and data science with useful and mo
 ---
 ## Tutorials
 
+A basic Python guide to machine learning, deep learning and artificial intelligence.
+
 ---
 ## Clone
 
