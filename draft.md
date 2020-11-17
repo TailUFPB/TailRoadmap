@@ -1,12 +1,3 @@
-## Livros
-
-Francois Chollet - Deep Learning with Python-Manning Publications
-
-Deep-Learning-with-PyTorch
-
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron (z-lib.org)
-
-
 ## ROADMAP Artificial intelligence
 
 ### 1. Conceitos
@@ -77,8 +68,20 @@ Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition 
 
 ## Materiais referência
 
+### Artigos do Medium
+
 ### Livros
+
+Francois Chollet - Deep Learning with Python-Manning Publications
+
+Deep-Learning-with-PyTorch
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron (z-lib.org)
+
+Data Science from scratch
 
 ### Cursos
 
 ### Tutoriais
+
+### Dicas Mercado de Trabalho
