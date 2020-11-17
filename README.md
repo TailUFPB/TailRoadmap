@@ -4,7 +4,7 @@ Repository with recommended resources for studying Data Science.
 ## Table of Contents
 - [TailRoadmap [ TO BE RELEASED SOON ]](#tailroadmap--to-be-released-soon-)
   - [Table of Contents](#table-of-contents)
-  - [- License](#ullilicenseliul)
+  - [License](#ullilicenseliul)
   - [Books](#books)
   - [Programming](#programming)
   - [Classes](#classes)
