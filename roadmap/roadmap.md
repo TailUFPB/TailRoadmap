@@ -1,67 +1,65 @@
 ## ROADMAP Artificial intelligence
 
-### 1. Conceitos
+### 1. Introdução
 
-* o que é IA, diferença entre os tipos de aprendizagem e exemplos práticos
+* Definição de IA
+* Aplicações da IA
+* História da IA
 * Principais desafios da IA (podia rolar até artigo no medium)
-* Overfitting, underfitting
+* Ética na IA
+
+### 2. Conceitos iniciais
+
+* Agentes inteligentes
+* Mineração de dados
+* Aprendizagem de máquina
+  * Supervisionada (Preditiva)
+  * Não supervisionada (Descritiva)
+  * Por reforço
+* Generalização, Sobreajuste (Overfitting), Subajuste (Underfitting)
 * Bias Variance trade off
 * Curse of Dimensionality
 * Hyperparameter tuning
 * Metrics
 
-### 2. Aprendizagem Supervisionada
+### 3. Preparação dos dados
 
-#### 2.1 Regressões
+* Obtenção de dados
+  * Dados estruturados
+  * Dados semi estruturados
+  * Não estruturados
+* Pré-processamento
+  * Exploração dos dados
+  * Limpeza de dados
+  * Transformação de dados
+  * Engenharia de recursos (*Feature Engineering*)
+  * Redução de dimensionalidade
+* Análise exploratória
+  * Visualização dos dados
 
-##### 2.1.1 Linear
+### 4. Aprendizagem Supervisionada
 
-* Explicação
-* Implementação
+* Regressão ou Classificação
+* Algoritmos
+  * Regressão linear
+  * Regressão logística
+  * KNN
+  * Decision Tree
+  * Random Forest
+  * Other tree based models
+  * Naive Bayes
+  * SVM
+* Redes Neurais
+  * Perceptron
+  * RNAs
+  * RNNs
+  * CNNs
 
-##### 2.1.2 Logística
+### 5. Aprendizagem Não Supervisionada
 
-* Explicação
-* Implementação
-
-#### 2.2 KNN
-
-* Explicação
-* Implementação
-
-#### 2.3 Decision Tree
-
-* Explicação
-* Implementação
-
-#### 2.4 Random Forest
-
-#### 2.5 Other tree based models
-
-#### 2.6 Naive Bayes
-
-#### 2.7 SVM
-
-#### 2.8 Dimensionality Reduction
-
-#### 2.9 Redes Neurais
-
-##### 2.9.1 Intuition and Introduction
-
-* Hyperparameters, parameters 
-
-##### 2.9.2 Perceptron
-
-##### 2.9.3 RNAs
-
-##### 2.9.4 RNNs
-
-##### 2.9.5 CNNs
-
-### 3. Aprendizagem Não supervisionada
-
-#### 3.1 K-means
-
-#### 3.2 DBSCAN
-
-#### 3.3 Agglomerative Clustering
+* Agrupamento (*Clustering*)
+* Algoritmos
+  * K-means
+  * DBSCAN
+  * Agrupamento Hierárquico
+  * Mean Shift
