@@ -21,6 +21,16 @@ Todos sabemos que a área de tecnologia é uma das áreas do mercado de trabalho
 
 #### 1. Networking 
 
+_"Networking não é sair adicionando todo mundo no LinkedIN esperando que irão te dar o emprego dos sonhos."_ - André Castro
+
+Vai muito mais além disso. Networking é a arte de manter uma rede de contatos ativa onde existe uma troca mútua de benefícios. Geralmente não existe segredo para um bom networking, ou a pessoa já faz isso bem ou não. Porém, segue uma lista de alguns passos para melhorar seu networking:
+
+- Crie conteúdo. Seja divulgando notícias, artigos, repositórios de códigos, etc.
+- Participe de uma ou várias comunidades. Não apenas consuma, crie!
+- Esteja disposto a ajudar sempre, sem receber nada em troca.
+- Acompanhe, interaja, comente publicações de colegas.
+- While True: repeat()
+
 #### 2. Linkedin
 
 <p align="center">
@@ -32,12 +42,34 @@ Todos sabemos que a área de tecnologia é uma das áreas do mercado de trabalho
 
 
 ### Como se destacar
-### Como estruturar o seu currículo
+
+*Faça tudo 10x melhor, antes do prazo, e entregue mais do que o esperado.*
+
+### Como estruturar o seu currículo 
 ### Como se preparar para um processo seletivo
+
+Abaixo seguem alguns materiais para você estudar e se destacar em entrevistas:
+[Acing your Interview - by Udacity](#https://career-resource-center.udacity.com/interviews/acing-your-interview)
+[Livro com questões práticas para entrevistas](#https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+[Mini Curso para preparação de Entrevistas em Data Science](#https://www.udacity.com/course/data-science-interview-prep--ud944)
+[Mini Curso para preparação de Entrevistas em Machine Learning](#https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
+
+Artigos interessantes sobre entrevistas:
+[Entrevista de emprego para cientista de dados na Hotmart](#https://paulovasconcellos.com.br/como-%C3%A9-a-entrevista-de-emprego-para-cientista-de-dados-na-hotmart-c6bddc797b2)
+[Paving the Way to Google](#https://shoresh.medium.com/paving-the-way-to-google-36844528e3d7)
+[Os 4 maiores erros de candidatos a vagas de data science](#https://paulovasconcellos.com.br/os-4-maiores-erros-de-candidatos-a-vagas-de-data-science-e998dc6179ff)
+[How to Explain Each Machine Learning Model at an Interview](#https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470)
 ### Continue a nadar
 
 <p align="center">
     <img src="imgs/nemo1.gif">
 </p>
+
+- Leia diariamente
+- Acompanhe blogs relevantes
+- Fique por dentro dos últimos artigos da área
+- Faça e refaça cursos para reclicagem
+- Participe ativamente das comunidades
+- Mantenha seu networking ativo
 
 Nem sempre será **fácil** conseguir o emprego dos sonhos. Contudo, é algo que está ao seu **alcance**! Não deixe que algumas rejeições o desanimem nem desista dos seus planos. Quando a gente menos espera as coisas dão certo! Siga nossas dicas e **continue a nadar**!
