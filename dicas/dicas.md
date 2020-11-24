@@ -49,16 +49,16 @@ Vai muito mais além disso. Networking é a arte de manter uma rede de contatos 
 ### Como se preparar para um processo seletivo
 
 Abaixo seguem alguns materiais para você estudar e se destacar em entrevistas:
-[Acing your Interview - by Udacity](#https://career-resource-center.udacity.com/interviews/acing-your-interview)
-[Livro com questões práticas para entrevistas](#https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-[Mini Curso para preparação de Entrevistas em Data Science](#https://www.udacity.com/course/data-science-interview-prep--ud944)
-[Mini Curso para preparação de Entrevistas em Machine Learning](#https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
+* [Acing your Interview - by Udacity](https://career-resource-center.udacity.com/interviews/acing-your-interview)
+* [Livro com questões práticas para entrevistas](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+* [Mini Curso para preparação de Entrevistas em Data Science](https://www.udacity.com/course/data-science-interview-prep--ud944)
+* [Mini Curso para preparação de Entrevistas em Machine Learning](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
 Artigos interessantes sobre entrevistas:
-[Entrevista de emprego para cientista de dados na Hotmart](#https://paulovasconcellos.com.br/como-%C3%A9-a-entrevista-de-emprego-para-cientista-de-dados-na-hotmart-c6bddc797b2)
-[Paving the Way to Google](#https://shoresh.medium.com/paving-the-way-to-google-36844528e3d7)
-[Os 4 maiores erros de candidatos a vagas de data science](#https://paulovasconcellos.com.br/os-4-maiores-erros-de-candidatos-a-vagas-de-data-science-e998dc6179ff)
-[How to Explain Each Machine Learning Model at an Interview](#https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470)
+* [Entrevista de emprego para cientista de dados na Hotmart](https://paulovasconcellos.com.br/como-%C3%A9-a-entrevista-de-emprego-para-cientista-de-dados-na-hotmart-c6bddc797b2)
+* [Paving the Way to Google](https://shoresh.medium.com/paving-the-way-to-google-36844528e3d7)
+* [Os 4 maiores erros de candidatos a vagas de data science](https://paulovasconcellos.com.br/os-4-maiores-erros-de-candidatos-a-vagas-de-data-science-e998dc6179ff)
+* [How to Explain Each Machine Learning Model at an Interview](https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470)
 ### Continue a nadar
 
 <p align="center">
