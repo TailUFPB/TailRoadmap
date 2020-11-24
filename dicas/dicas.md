@@ -31,11 +31,26 @@ Vai muito mais além disso. Networking é a arte de manter uma rede de contatos 
 - Acompanhe, interaja, comente publicações de colegas.
 - While True: repeat()
 
-#### 2. Linkedin
+Além disso, em todas as oportunidades que participar lembre sempre de dar seu melhor. Seus feitos com certeza falam e ecoam mais que suas palavras!
 
-<p align="center">
-    <img src="imgs/linkedin.gif">
-</p>
+#### 2. Redes Sociais
+
+<img src="imgs/linkedin.png" width="49%" height="200px" style="display:inline;">
+<div style="display:inline;width:5px;"></div>
+<img src="imgs/github.png" width="49%" height="200px" style="display:inline;">
+
+##### LinkedIn
+
+O LinkedIn é a maior rede social usada para networking e contato profissional. Muitas pessoas conseguem vagas através dessa rede social (principalmente na área de negócios e tecnologia). Com isso, é interessante ter um perfil ativo e organizado onde você possa colocar um pouco do seu trabalho e servir como um portifólio alternativo ao Github. Abaixo seguem alguns links para dar início a sua jornada nessa rede social:
+
+* [Como posso criar um bom perfil do LinkedIn](https://www.linkedin.com/help/linkedin/answer/113935/como-posso-criar-um-bom-perfil-do-linkedin-?lang=pt)
+* [LinkedIn: 17 dicas incríveis para você ter um perfil campeão](https://rockcontent.com/br/blog/perfil-linkedin/)
+
+##### Github
+
+Github é uma das ferramentas mais utilizadas pelos devs. No github, embora grande parte dos usuários encare apenas como um serviço para armazenar nossos códigos, o Github é uma ótima vitrine para pessoas com interesse no seu trabalho e uma forma de possíveis contratantes verem sua organização e expertise na sua área. Além disso, o github também possibilita a criação de uma página, de forma gratuita, através do github pages, na qual você pode adicionar um pouco sobre você, seu trabalho e até criar um blog e escrever sobre os seus estudos ou qualquer outra coisa :P .
+
+* [Github Pages](https://pages.github.com/)
 
 #### 3. Crie sua vaga!
 
