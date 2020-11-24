@@ -21,7 +21,7 @@ Todos sabemos que a área de tecnologia é uma das áreas do mercado de trabalho
 
 #### 1. Networking 
 
-_"Networking não é sair adicionando todo mundo no LinkedIN esperando que irão te dar o emprego dos sonhos."_ - André Castro
+_"Networking não é sair adicionando todo mundo no LinkedIn esperando que irão te dar o emprego dos sonhos."_ - André Castro
 
 Vai muito mais além disso. Networking é a arte de manter uma rede de contatos ativa onde existe uma troca mútua de benefícios. Geralmente não existe segredo para um bom networking, ou a pessoa já faz isso bem ou não. Porém, segue uma lista de alguns passos para melhorar seu networking:
 
@@ -52,13 +52,23 @@ Github é uma das ferramentas mais utilizadas pelos devs. No github, embora gran
 
 * [Github Pages](https://pages.github.com/)
 
-#### 3. Crie sua vaga!
+#### 3. O que mais?
 
+Por fim, talvez o ponto mais importante dos listados. Seguindo os passos dados acima, sem dúvidas oportunidades não faltarão! Contudo, nem sempre o que chegar será aquilo que você sonhava.
 
+Mas não desanima! A dica dessa seção é:
+
+> **Cria tua vaga!**
+
+Não fica esperando a empresa que você quer trabalhar te chamar. Manda um email pro responsável com seu currículo, histórico e fala um pouco sobre o porquê de você querer trabalhar lá. Mostre que você está interessado e pode contribuir. O pior cenário possível é um educado não seguido de um agradecimento e o melhor cenário é uma entrevista marcada :D.
 
 ### Como se destacar
 
-*Faça tudo 10x melhor, antes do prazo, e entregue mais do que o esperado.*
+Essa é provavelmente a seção mais curta e simples, mas uma das mais importantes.
+
+> *Faça tudo bem feito, antes do prazo, e entregue mais do que o esperado.*
+
+Seguindo esses passos com certeza você vai se destacar haha.
 
 ### Como estruturar o seu currículo 
 ### Como se preparar para um processo seletivo
