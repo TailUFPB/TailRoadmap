@@ -7,7 +7,6 @@
 ## Conteúdos
 - [Matemática e Estatística](#matemática-e-estatística)
 - [Machine Learning](#machine-learning-e-ciência-de-dados)
-- [Ciência de Dados](#data-science)
 - [Programação](#programação)
 - [Cursos gerais](#cursos-gerais)
 
