@@ -35,7 +35,7 @@ Intermediários: \
 [Trilha de Cursos de Deep Learning - Deeplearnig.ai](https://www.coursera.org/specializations/deep-learning) \
 [Trilha de Cursos de NLP - Deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) \
 [Programa Aprendizado ML Engineer - Google](https://cloud.google.com/training/machinelearning-ai) \
-[Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
+[Applied Data Science with Python - Cognitive Class](https://cognitiveclass.ai/learn/data-science-with-python)
 
 Avançados: \
 [ML - AWS](https://aws.amazon.com/pt/training/learning-paths/machine-learning/) \
