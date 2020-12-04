@@ -9,6 +9,12 @@ Esse Roadmap está sendo organizado pela Diretoria de Inteligência Artificial d
 * [História da IA](https://tail-ufpb.medium.com/uma-breve-hist%C3%B3ria-da-intelig%C3%AAncia-artificial-5e1ade5424c0)
 * Principais desafios da IA (podia rolar até artigo no medium)
 * Ética na IA
+* O futuro da IA
+  * Medicina
+  * Direito
+  * Indústria
+  * Mercado de trabalho
+ 
 
 ### 2. Conceitos iniciais
 
