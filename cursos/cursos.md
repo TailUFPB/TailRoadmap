@@ -46,7 +46,7 @@ Avançados: \
 [Data Analyst - Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002) \
 [Data Visualization - Udacity](https://www.udacity.com/course/data-visualization-nanodegree--nd197) \
 [Computer Vision - Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891) \
-[Deep Reinforcement Learning  - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) \
+[Deep Reinforcement Learning  - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) 
 
 ## Programação 
 [Curso Python para Data Science](https://www.udemy.com/course/python-coding/?LSNPUBID=vEdqAMR5F5s&ranEAID=vEdqAMR5F5s&ranMID=39197&ranSiteID=vEdqAMR5F5s-UGlTZ4PmihadJBUQgiZvUg) \
