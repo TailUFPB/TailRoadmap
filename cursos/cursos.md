@@ -26,12 +26,16 @@ Introdutórios: \
 [Intro to TensorFlow for Deep Learning - Udacity](https://learndigital.withgoogle.com/digitalunlocked/course/intro-to-tensorflow-for-deep-learning) \
 [Intro to Machine Learning with TensorFlow ](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) \
 [Intro to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+[Elements of AI - University of Helsinki](https://course.elementsofai.com/)
+[Data Science Foundations - Cognitive Class](https://cognitiveclass.ai/learn/data-science)
+[Machine Learning e Data Science com Python de A a Z - Udemy](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/)
 
 Intermediários: \
 [Curso de ML com Python - IBM](https://www.coursera.org/learn/machine-learning-with-python) \
 [Trilha de Cursos de Deep Learning - Deeplearnig.ai](https://www.coursera.org/specializations/deep-learning) \
 [Trilha de Cursos de NLP - Deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) \
 [Programa Aprendizado ML Engineer - Google](https://cloud.google.com/training/machinelearning-ai)
+[Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
 
 Avançados: \
 [ML - AWS](https://aws.amazon.com/pt/training/learning-paths/machine-learning/) \
@@ -50,7 +54,8 @@ Avançados: \
 [Curso de Docker](https://www.udemy.com/course/docker-introducao-a-administracao-de-containers/) \
 [Bootcamp de DevOps](https://www.udemy.com/course/devopsbootcamp/) \
 [Intro to DevOps - Udacity](https://www.udacity.com/course/intro-to-devops--ud611)
+[CS50 Introduction to Computer Science - HarvardX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 ## Cursos gerais
 
-TODO
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
