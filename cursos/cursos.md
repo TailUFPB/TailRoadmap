@@ -54,8 +54,9 @@ Avançados: \
 [Curso de Docker](https://www.udemy.com/course/docker-introducao-a-administracao-de-containers/) \
 [Bootcamp de DevOps](https://www.udemy.com/course/devopsbootcamp/) \
 [Intro to DevOps - Udacity](https://www.udacity.com/course/intro-to-devops--ud611) \
-[CS50 Introduction to Computer Science - HarvardX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+[CS50 Introduction to Computer Science - HarvardX](https://www.edx.org/course/cs50s-introduction-to-computer-science) \
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ## Cursos gerais
 
-[freeCodeCamp](https://www.freecodecamp.org/learn/)
+TODO
